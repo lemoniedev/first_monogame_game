@@ -49,3 +49,9 @@
 /processorParam:TextureFormat=Color
 /build:circleSprite.png
 
+#begin happyAlley.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:happyAlley.mp3
+

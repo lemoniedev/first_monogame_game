@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
 
 namespace FirstGame
 {
     public class Game1 : Game
     {
         Texture2D backGorund;
+        Song happyAlley;
 
         Circle circle = new Circle(new Vector2(320, 255-12));
 
@@ -43,6 +45,9 @@ namespace FirstGame
 
         protected override void LoadContent()
         {
+            happyAlley = Content.Load<Song>("happyAlley");
+            MediaPlayer.Play(happyAlley);
+
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             backGorund = Content.Load<Texture2D>("backGroundHill");

@@ -24,3 +24,5 @@ C:\Users\essij\Desktop\game_monogame\FirstGame\obj\Debug\netcoreapp3.1\FirstGame
 C:\Users\essij\Desktop\game_monogame\FirstGame\bin\Debug\netcoreapp3.1\Content\circleSprite.xnb
 C:\Users\essij\Desktop\game_monogame\FirstGame\bin\Debug\netcoreapp3.1\Content\circleBadSprite.xnb
 C:\Users\essij\Desktop\game_monogame\FirstGame\bin\Debug\netcoreapp3.1\Content\backGroundHill.xnb
+C:\Users\essij\Desktop\game_monogame\FirstGame\bin\Debug\netcoreapp3.1\Content\happyAlley.ogg
+C:\Users\essij\Desktop\game_monogame\FirstGame\bin\Debug\netcoreapp3.1\Content\happyAlley.xnb
